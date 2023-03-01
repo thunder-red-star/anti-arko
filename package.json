@@ -1,0 +1,7 @@
+{
+  "name": "anti-arko",
+  "version": "1.0.0",
+  "dependencies": {
+    "djs-self": "^12.5.3"
+  }
+}
